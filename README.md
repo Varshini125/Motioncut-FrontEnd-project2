@@ -1,13 +1,9 @@
 🎯 Dream Bucket List
-
-
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 📌 Overview
 This project displays a creative and personal dream bucket list using HTML and CSS. It includes goals like travel plans, learning milestones, and fun experiences — each styled with icons and responsive design.
 
 🔧 Key Features
-Uses HTML <ul> and <li> for structured lists
 
 Adds visual appeal with emojis and icons
 
